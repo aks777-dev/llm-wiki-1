@@ -115,3 +115,9 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
